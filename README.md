@@ -23,7 +23,7 @@ The main objectives of the virtual internship are as follows:
   - the solution for the task in .pptx format
   - the 'data analysis' file for the interpretation and charts 
 - [3. Data Insights and Presentation](https://github.com/EcoSkull/KPMG-AU-DATA-ANALYTICS-VIRTUAL-INTERNSHIP/tree/main/Data%20Insights%20and%20Presentation): This directory includes the visualizations and dashboards created during the internship in .twbx format made with Tableau along with the xlsx files of current and target customers for data analysis.
-- [Certificate of Completion_Priyanka Chandramohan](https://github.com/EcoSkull/KPMG-AU-DATA-ANALYTICS-VIRTUAL-INTERNSHIP/blob/main/Certificate%20of%20Completion_Pravesh.pdf): This contains the certificate of completion from KPMG AU and Forage.
+- [Certificate of Completion_Pravesh](https://github.com/EcoSkull/KPMG-AU-DATA-ANALYTICS-VIRTUAL-INTERNSHIP/blob/main/Certificate%20of%20Completion_Pravesh.pdf): This contains the certificate of completion from KPMG AU and Forage.
 - README.md: This file provides an overview of the internship and repository.
 
 ## Tasks and Solutions
