@@ -18,7 +18,7 @@ The main objectives of the virtual internship are as follows:
   - a folder containing the cleaned data in .csv format with its .ipynb file containing the code and documentation
   - the merged csv file for data analysis
   - solution for the first task in both .docx and .pdf format.
-- [2. Data Insights](https://github.com/priyankaChandramohan/KPMG-AU-Data-Analytics-virtual-internship/tree/master/2.%20Data%20Insights): This directory contains:
+- [2. Data Insights](https://github.com/EcoSkull/KPMG-AU-DATA-ANALYTICS-VIRTUAL-INTERNSHIP/tree/main/Data%20Insights): This directory contains:
   - the template for task 2
   - the solution for the task in .pptx format
   - the 'data analysis' file for the interpretation and charts 
