@@ -13,7 +13,7 @@ The main objectives of the virtual internship are as follows:
 - Provide actionable recommendations based on the data analysis to address the client's business challenges.
 
 ### This repository is organized as follows:
-- [1. Data Quality Assessment](https://github.com/priyankaChandramohan/KPMG-AU-Data-Analytics-virtual-internship/tree/master/1.%20Data%20Quality%20Assessment): This directory contains:
+- [1. Data Quality Assessment](https://github.com/EcoSkull/KPMG-AU-DATA-ANALYTICS-VIRTUAL-INTERNSHIP/tree/main/Data%20Quality%20Assessment): This directory contains:
   - the dataset provided for the internship project
   - a folder containing the cleaned data in .csv format with its .ipynb file containing the code and documentation
   - the merged csv file for data analysis
